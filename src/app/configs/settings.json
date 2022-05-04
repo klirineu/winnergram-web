@@ -1,6 +1,6 @@
 {
-    "apiUrl": "https://api.varsel.com.br",
-    "socketUrl": "http://localhost:4448",
+    "apiUrl": "https://winnergram-server.herokuapp.com",
+    "socketUrl": "https://winnergram-server.herokuapp.com",
     "redirectUrl": "https://winnergram.vercel.app/login",
     "GoogleClientID": "307364157315-0g0v2vp4a1ivo33e9p1gdedlptguk245.apps.googleusercontent.com",
     "FacebookAppID": "350425217142562"
